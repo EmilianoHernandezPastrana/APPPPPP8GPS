@@ -10,8 +10,8 @@ version ="1.0.0">
 <description>
 </description>
 
-<author href="https://build.phonegap.com" email="panteraruizdaniel@gmail.com">
-JOSE DANIEL MARTINEZ RUIZ
+<author href="https://build.phonegap.com" email="cb16.hernandezpastranaemiliano@gmail.com">
+Emiliano Hernandez Pastrana
 </author>
 
 <!--Personaliza la aplicacion y plataforma -->
@@ -42,7 +42,7 @@ JOSE DANIEL MARTINEZ RUIZ
 
 <!--Colocar icono de la app-->
 
-<icon src="res/android/negro.png"/>
+<icon src="res/android/mdpi.png"/>
 
 
 </widget>
